@@ -44,9 +44,7 @@
 
 ## About The Project
 
-<div align="center">
-</div>
-<p>This project aims to mimic a grocery store's sales database, providing real-time analytics through automated SQL script execution with Bash and a data analytics dashboard built with Python, Streamlit, and Plotly.</p>
+This project aims to mimic a grocery store's sales database, providing real-time analytics through automated SQL script execution with Bash and a data analytics dashboard built with Python, Streamlit, and Plotly
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
